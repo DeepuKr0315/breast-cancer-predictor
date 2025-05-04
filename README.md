@@ -18,6 +18,21 @@ A machine learning-based web application designed to predict whether a breast ma
 
 ---
 
+### Frontend Layout 🖥️
+Below is a screenshot of the Streamlit app interface, which illustrates how users interact with the prediction model:
+
+![Web Interface Layout](assets\screenshot1.png)
+
+#### Web Interface Layout:
+- **Interactive Sliders**: Users can input data for the prediction through the interactive sliders.
+- **Radar Chart Display**: The radar chart shows the measurements (Mean, Standard Error, Worst) for cell nuclei, allowing users to visualize the data.
+- **Prediction Results**: The output indicates whether the mass is benign or malignant, along with probabilities for both outcomes.
+
+This layout provides an intuitive, easy-to-use interface for users to input data, visualize the results, and receive predictions.
+
+
+---
+
 ## Installation & Setup ⚙️
 
 ### 1. Clone this repository:
