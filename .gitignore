@@ -1,0 +1,12 @@
+# Ignore virtual environment
+env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Other common ignores
+.DS_Store
+*.log
+*.pkl
