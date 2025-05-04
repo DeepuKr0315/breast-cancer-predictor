@@ -21,7 +21,7 @@ A machine learning-based web application designed to predict whether a breast ma
 ### Frontend Layout 🖥️
 Below is a screenshot of the Streamlit app interface, which illustrates how users interact with the prediction model:
 
-![Web Interface Layout](![Web Interface Layout](https://github.com/DeepuKr0315/breast-cancer-predictor/blob/main/assets/screenshot1.png))
+![Web Interface Layout](https://github.com/DeepuKr0315/breast-cancer-predictor/blob/main/assets/screenshot1.png)
 
 #### Web Interface Layout:
 - **Interactive Sliders**: Users can input data for the prediction through the interactive sliders.
